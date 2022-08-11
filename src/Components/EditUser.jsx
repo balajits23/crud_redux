@@ -67,7 +67,7 @@ const EditUser = () => {
             onChange={handleChange}
           />
         </div>
-        <button type="submit" className="btn btn-primary btn-sm">
+        <button type="submit" className="btn btn-primary btn-lg">
           Update
         </button>
       </form>

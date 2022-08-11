@@ -9,6 +9,11 @@
       "username": "Rohit sharma",
       "salary": "1000",
       "id": 5
+    },
+    {
+      "username": "vishnu",
+      "salary": "1000000",
+      "id": 6
     }
   ]
 }
