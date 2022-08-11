@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "balaji_gowda ts",
+      "salary": "1000000",
+      "id": 3
+    },
+    {
+      "username": "Rohit sharma",
+      "salary": "1000",
+      "id": 5
+    }
+  ]
+}
